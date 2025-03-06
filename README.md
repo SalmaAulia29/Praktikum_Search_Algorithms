@@ -1,4 +1,4 @@
-# Praktikum Algoritma Pencarian (Search Algorithms)
+# Praktikum Search Algorithm (Uninformed Search)
 2306143_SALMA AULIA NISA
 
 ## 🎉 Deskripsi
@@ -8,11 +8,6 @@ Repository ini berisi implementasi berbagai algoritma pencarian dalam **Python**
 1. DFS (Depth First Search): Menelusuri graph dengan pendekatan menyelam ke dalam cabang terlebih dahulu sebelum kembali ke node sebelumnya.
 2. BFS (Breadth First Search): Menelusuri graph secara melebar dengan mengunjungi semua node pada satu tingkat sebelum melangkah ke tingkat berikutnya.
 3. UCS (Uniform Cost Search): Pencarian jalur optimal berdasarkan bobot atau biaya antar node.
-   
-- **Informed Search**:
-1. Greedy Best-First Search: Menggunakan fungsi heuristik untuk memilih node dengan estimasi terbaik menuju tujuan.
-2. A* Tree Search: Kombinasi UCS dan heuristik untuk mendapatkan jalur terpendek.
-3. A* Graph Search: Mirip dengan A* Tree Search, tetapi menghindari eksplorasi ulang pada node yang sudah dikunjungi.
 
 Algoritma-algoritma ini digunakan untuk mencari jalur optimal dalam suatu graph dengan berbagai pendekatan, baik pencarian tanpa informasi tambahan (uninformed) maupun pencarian dengan informasi heuristik (informed).
 
