@@ -15,9 +15,6 @@ Algoritma-algoritma ini digunakan untuk mencari jalur optimal dalam suatu graph 
 - `dfs.py` → Implementasi Depth First Search
 - `bfs.py` → Implementasi Breadth First Search
 - `ucs.py` → Implementasi Uniform Cost Search
-- `greedy_best_first.py` → Implementasi Greedy Best-First Search
-- `a_star_tree.py` → Implementasi A* Tree Search
-- `a_star_graph.py` → Implementasi A* Graph Search
 
 Setiap file berisi implementasi algoritma dengan contoh penggunaan yang dapat diuji langsung.
 
